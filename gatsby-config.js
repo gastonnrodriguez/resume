@@ -9,4 +9,9 @@
  */
 module.exports = {
   plugins: [],
+  siteMetadata: {
+    title: 'Gaston Rodriguez',
+    description: 'Resume',
+    copyright: 'Register 2022'
+  }
 }
